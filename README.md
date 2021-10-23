@@ -31,6 +31,6 @@
 
 </details>
 
-<img align="left" alt="Status do GitHub" src="https://github-readme-stats.lucastavaresa.vercel.app/api?username=LucasTavaresA&show_icons=true&hide_border=false" />
+[![Status do Github](https://github-readme-stats.vercel.app/api?username=lucastavaresa)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/lucastavaresa
