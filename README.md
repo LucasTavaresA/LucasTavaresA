@@ -18,7 +18,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastavaresa&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Ultimas Contribuições no GitHub</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
