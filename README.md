@@ -1,6 +1,6 @@
 
 [<img style="padding: 0 5;" alt="Lucas Tavares | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[![Website](https://img.shields.io/website?label=Meu%20Site&style=for-the-badge&url=https%3A%2F%2Flucastavaresa.github.io)](https://lucastavaresa.github.io)
+[![Website](https://img.shields.io/website?label=lucastavaresa.github.io&style=for-the-badge&url=https%3A%2F%2Flucastavaresa.github.io)](https://lucastavaresa.github.io)
 
 ### Linguagens e Ferramentas:
 
@@ -15,14 +15,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastavaresa&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
-  <summary>Ultimas Contribuições no GitHub</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastavaresa&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Anurag's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastavaresa&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" /></a>
 
 [linkedin]: https://linkedin.com/in/lucastavaresa
