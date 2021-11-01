@@ -15,7 +15,7 @@
 <br />
 <br />
 
-<a href="#"><img align="center" style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=lucastavaresa&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=pt-br&border_radius=0" alt="Anurag's github stats" /></a>
-<a href="#"><img align="center" style="width: 48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastavaresa&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&border_radius=0" /></a>
+<a href="#"><img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=lucastavaresa&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=pt-br&border_radius=0" alt="" /></a>
+<a href="#"><img align="center" style="width: 42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastavaresa&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&border_radius=0" /></a>
 
 [linkedin]: https://linkedin.com/in/lucastavaresa
