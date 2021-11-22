@@ -1,6 +1,6 @@
 
 [<img style="padding: 0 5;" alt="Lucas Tavares | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[![Website](https://img.shields.io/website?label=lucastavaresa.github.io&style=for-the-badge&url=https%3A%2F%2Flucastavaresa.github.io)](https://lucastavaresa.github.io)
+[![Website](https://img.shields.io/website?label=Meu+Site&style=for-the-badge&url=https%3A%2F%2Flucastavaresa.github.io)](https://lucastavaresa.github.io)
   
 ### Linguagens e Ferramentas:
 
