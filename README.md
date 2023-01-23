@@ -9,15 +9,11 @@
   <img alt="" align="left" height="30px" src="https://img.shields.io/website?label=Meu+Site&style=for-the-badge&url=https%3A%2F%2Flucastavaresa.github.io" />
 </a>
 
+<p><img alt="" width="30%" src="https://count.getloli.com/get/@:lucastavaresa" /></p>
+
 <a href="https://web.libera.chat/gamja/?channels=#lucasta">
   <p align="left" height="20px">#lucasta no irc.libera.chat</p>
 </a>
-
-<br/>
-<br/>
-<br/>
-
-<p><img alt="" width="30%" src="https://count.getloli.com/get/@:lucastavaresa" /></p>
 
 <br/>
 <br/>
