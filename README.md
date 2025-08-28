@@ -1,4 +1,3 @@
-[#lucasta no irc.libera.chat](https://web.libera.chat/gamja/?channels=#lucasta)
 [<img alt="" src="https://img.shields.io/website?label=Meu+Site&style=for-the-badge&url=https%3A%2F%2Flucastavaresa.github.io">](https://lucastavaresa.github.io)
 [<img alt="" height="30px" src="https://design.codeberg.org/logo-kit/icon.svg">](https://codeberg.org/LucasTavaresA/)
 [<img alt="Powered by Void Linux" height="30px" src="./button.gif">](https://voidlinux.org)
